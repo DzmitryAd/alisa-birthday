@@ -1,0 +1,73 @@
+@import './common.scss';
+
+.layout {
+  width: 100%;
+  min-height: 100%;
+  min-width: 320px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.main {
+  width: 100%;
+  position: relative;
+  &__image {
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: fixed;
+    overflow: hidden;
+    @include media-md {
+      width: 100%;
+      background-position: left -200px top 0px ;
+      background-attachment: local;
+    }
+  }
+
+  &--title {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%);
+    color: white;
+    font-size: 40px;
+    line-height: 44px;
+    font-weight: 700;
+    white-space: nowrap;
+    @include media-md {
+      font-size: 32px;
+      line-height: 36px;
+      transform: translate(-40%);
+      top: 35%;
+      left: 20px;
+      transform: initial;
+      white-space: initial;
+      width: 100%;
+    }
+  }
+}
+.invite {
+  @include wrapper;
+  font-size: 32px;
+  line-height: 32px;
+  color: #193248;
+  @include media-md {
+    font-size: 24px;
+    line-height: 28px;
+    padding: 16px 0;
+  }
+}
+.thanks_block {
+  @include wrapper;
+  font-size: 32px;
+  line-height: 32px;
+  color: white;
+  background-color: #6595AC;
+  @include media-md {
+    font-size: 24px;
+    line-height: 28px;
+    padding: 16px 0;
+  }
+}

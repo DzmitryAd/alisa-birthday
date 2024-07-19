@@ -1,0 +1,19 @@
+@import '../../common.scss';
+
+.slider__wrapper {
+  @include wrapper;
+
+  .slider_title {
+    @include title;
+  }
+  .image-gallery {
+    width: 440px;
+    margin: 0 auto;
+    @include media-md {
+      width: 100%;
+    }
+  }
+  .image-gallery-slides {
+    border-radius: 8px;
+  }
+}

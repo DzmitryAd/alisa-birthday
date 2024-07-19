@@ -1,0 +1,159 @@
+@import '../../common.scss';
+
+@keyframes carmove {
+  0%   {transform: translateY(0px);}
+  25%  {transform: translateY(1px)}
+  29%  {transform: translateY(2px)}
+  33%  {transform: translateY(3px)}
+  47%  {transform: translateY(0px)}
+  58%  {transform: translateY(1px)}
+  62%  {transform: translateY(2px)}
+  66%  {transform: translateY(3px)}
+  75%  {transform: translateY(1px)}
+  100% {transform: translateY(0px)}
+}
+
+@keyframes moving {
+  0% {
+    right: calc(100% + 400px);
+    animation-timing-function: ease-out;
+  }
+  35% {right: 0;}
+  36%,
+  56% {
+    right: 0;
+    animation-timing-function: ease-in;
+  }
+  100% {right: -400px;}
+}
+
+.wrapper {
+  @include wrapper;
+  background-color: #6595AC;
+  position: relative;
+  @include media-md {
+    padding-bottom: 70px;
+  }
+
+  .map_title {
+    @include title(white);
+    color: white;
+  }
+
+  .map_container {
+    display: flex;
+    width: 100%;
+    @include media-md {
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    >div {
+      width: 50%;
+      @include media-md {
+        width: 100%;
+      }
+    }
+
+    .map_wrapper {
+      width: 660px;
+      height: 400px;
+      box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+
+      >ymaps {
+        border-radius: 8px;
+
+        > ymaps {
+          border-radius: 8px;
+
+          > ymaps {
+            border-radius: 8px;
+          }
+        }
+      }
+
+      @include media-md {
+        margin: 0 auto;
+        width: 100%
+      }
+    }
+
+    .map_text {
+      @include commonText;
+      margin-left: 24px;
+      text-align: left;
+      color: white;
+      > a {
+        color: white;
+        text-decoration: none;
+        border-bottom: 1px solid white;
+        > img {
+          width: 30px;
+          height: 30px;
+          @include media-md {
+            position: absolute;
+            margin-left: 4px;
+          }
+        }
+      }
+      @include media-md {
+        margin-left: 0px;
+        margin-top: 16px;
+        position: relative;
+      }
+    }
+  }
+}
+
+.mark_placeamark {
+  width: 40px;
+  height: auto;
+  max-height: 50px;
+  margin-top: -60px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+
+  @include media-md {
+    width: 30px;
+  }
+  > span {
+    margin-top: 2px;
+    color: #6595AC;
+  }
+
+  > img {
+    width: 100%;
+    height: 100%;
+  }
+  &__kyky {
+    display: none;
+    width: 60px;
+    height: 20px;
+    text-align: center;
+    position: absolute;
+    background-color: white;
+    border-radius: 8px;
+    border: 1px solid black;
+    top: 0px;
+    left: 32px;
+  }
+}
+
+.map_car {
+  height: 100px;
+  position: absolute;
+  bottom: 0;
+  right: 24px;
+  animation: moving 10s linear -2s infinite;
+  @include media-md {
+    height: 50px;
+  }
+}
+
+.show {
+  display: block;
+}

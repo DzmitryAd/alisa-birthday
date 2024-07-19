@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.image-gallery-thumbnails-wrapper {
+  width: 80px !important;
+}
+
+.image-gallery-thumbnail {
+  width: 76px !important;
+  border: unset !important;
+  border-radius: 8px !important;
+  margin-left: 4px !important;
+  cursor: pointer;
+  img {
+    border-radius: 8px !important;
+  }
+}
+
+.image-gallery-thumbnail.active {
+  border-radius: 11px !important;
+  border: 3px solid #6595AC !important;
+}
