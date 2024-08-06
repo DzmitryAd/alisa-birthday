@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/alisa-birthday/static/css/main.bce33bac.css",
-    "main.js": "/alisa-birthday/static/js/main.6b3943f5.js",
+    "main.js": "/alisa-birthday/static/js/main.5d5d8443.js",
     "static/media/slider-1.jpg": "/alisa-birthday/static/media/slider-1.38a1aec867b1506b015d.jpg",
     "static/media/slider-7.jpg": "/alisa-birthday/static/media/slider-7.c342204a952a9ed41c5d.jpg",
     "static/media/slider-6.jpg": "/alisa-birthday/static/media/slider-6.c8c9d8cfe78c4acd6514.jpg",
@@ -11,15 +11,15 @@
     "static/media/slider-5.jpg": "/alisa-birthday/static/media/slider-5.47992f8ae9b53bcc266a.jpg",
     "static/media/slider-0.jpg": "/alisa-birthday/static/media/slider-0.14368c04ad56674e75d9.jpg",
     "static/media/slider-3.jpg": "/alisa-birthday/static/media/slider-3.6a98432888a897500294.jpg",
+    "static/media/mark-placemark.png": "/alisa-birthday/static/media/mark-placemark.55bb99c21045a7da5df8.png",
     "static/media/car.png": "/alisa-birthday/static/media/car.52efed68ea9a56f02468.png",
     "static/media/main.jpg": "/alisa-birthday/static/media/main.c806dfc133b74f1be22c.jpg",
-    "static/media/mark-placemark.png": "/alisa-birthday/static/media/mark-placemark.99e02314aa5cdc33f128.png",
     "index.html": "/alisa-birthday/index.html",
     "main.bce33bac.css.map": "/alisa-birthday/static/css/main.bce33bac.css.map",
-    "main.6b3943f5.js.map": "/alisa-birthday/static/js/main.6b3943f5.js.map"
+    "main.5d5d8443.js.map": "/alisa-birthday/static/js/main.5d5d8443.js.map"
   },
   "entrypoints": [
     "static/css/main.bce33bac.css",
-    "static/js/main.6b3943f5.js"
+    "static/js/main.5d5d8443.js"
   ]
 }
