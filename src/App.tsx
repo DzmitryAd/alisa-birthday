@@ -19,12 +19,12 @@ function App() {
         <span
           className="main--title"
           dangerouslySetInnerHTML={{
-            __html: "Всем привет! <br> Я Марк и мне скоро будет годик!",
+            __html: "Всем привет! <br> Я Алиса и мне скоро будет годик!",
           }}
         />
       </div>
       <div className="invite">
-        Хотел бы пригласить вас встретить его со мной
+        Хотела бы пригласить вас встретить его со мной
       </div>
       <MapUI />
       <Gifts />
