@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/alisa-birthday/static/css/main.da2dffdf.css",
-    "main.js": "/alisa-birthday/static/js/main.e4d0f69f.js",
+    "main.js": "/alisa-birthday/static/js/main.9cc2e42b.js",
     "static/media/slider-10.jpg": "/alisa-birthday/static/media/slider-10.9f12cc1c8518a28230e4.jpg",
     "static/media/slider-1.jpg": "/alisa-birthday/static/media/slider-1.38a1aec867b1506b015d.jpg",
     "static/media/slider-7.jpg": "/alisa-birthday/static/media/slider-7.c342204a952a9ed41c5d.jpg",
@@ -21,10 +21,10 @@
     "static/media/mark-placemark.png": "/alisa-birthday/static/media/mark-placemark.ff469cf194c0eae551df.png",
     "index.html": "/alisa-birthday/index.html",
     "main.da2dffdf.css.map": "/alisa-birthday/static/css/main.da2dffdf.css.map",
-    "main.e4d0f69f.js.map": "/alisa-birthday/static/js/main.e4d0f69f.js.map"
+    "main.9cc2e42b.js.map": "/alisa-birthday/static/js/main.9cc2e42b.js.map"
   },
   "entrypoints": [
     "static/css/main.da2dffdf.css",
-    "static/js/main.e4d0f69f.js"
+    "static/js/main.9cc2e42b.js"
   ]
 }
