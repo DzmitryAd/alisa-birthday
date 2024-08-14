@@ -107,7 +107,7 @@
 }
 
 .mark_placeamark {
-  width: 40px;
+  width: 50px;
   height: auto;
   max-height: 50px;
   margin-top: -60px;
@@ -117,9 +117,6 @@
   align-items: center;
   position: relative;
 
-  @include media-md {
-    width: 30px;
-  }
   > span {
     margin-top: 2px;
     color: #D2B48C;
@@ -150,7 +147,7 @@
   right: 24px;
   animation: moving 10s linear -2s infinite;
   @include media-md {
-    height: 50px;
+    height: 80px;
   }
 }
 
