@@ -37,7 +37,7 @@ const images = [
 const SliderUI = () => {
   return (
     <div className="slider__wrapper">
-      <div className="slider_title">Вот вам немного меня</div>
+      <div className="slider_title">Вот так прошел мой первый годик</div>
       <ImageGallery
         items={images}
         lazyLoad
