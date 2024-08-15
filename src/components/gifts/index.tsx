@@ -32,6 +32,26 @@ const CONFIG = [
     title: `${ICON} Сухой бассейн`,
     link: "https://docs.google.com/document/d/17OWGozu51OM_MxtwOjOYIC-rr6jMQlX_wsCViXeAaag/edit?usp=sharing",
   },
+  {
+    title: `${ICON} Детский столик`,
+    link: "https://docs.google.com/document/d/1fo3IIreBG3OajJ66fTyioGy0GGQGd7PGslLNRjZ53cI/edit?usp=sharing",
+  },
+  {
+    title: `${ICON} Happy Baby Детский пылесос игрушечный вертикальный беспроводной ручной`,
+    link: "https://global.wildberries.ru/product?card=178339649",
+  },
+  {
+    title: `${ICON} Игрушечная раковина с водой`,
+    link: "https://ozon.ru/t/VnzyP97",
+  },
+  {
+    title: `${ICON} Happy Baby Детский игровой набор для уборки дома, со шваброй и ведром`,
+    link: "https://global.wildberries.ru/product?card=200140175",
+  },
+  {
+    title: `${ICON} Gavryusha_Toy Бизиборд Лама для малышей`,
+    link: "https://global.wildberries.ru/product?card=209261808",
+  },
   { title: `${ICON} Сертификат в магазин "Детский мир"` },
   { title: `${ICON} Сертификат в магазин "Zara"` },
 ];
