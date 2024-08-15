@@ -24,6 +24,14 @@ const CONFIG = [
     title: `${ICON} SUPER DOTS Большие точечные маркеры с раскраской для рисованият`,
     link: "https://global.wildberries.ru/product?card=242642433",
   },
+  {
+    title: `${ICON} Kidswood Треугольник пиклера с горкой [12 перекладин]`,
+    link: "https://global.wildberries.ru/product?card=163275395",
+  },
+  {
+    title: `${ICON} Сухой бассейн`,
+    link: "https://docs.google.com/document/d/17OWGozu51OM_MxtwOjOYIC-rr6jMQlX_wsCViXeAaag/edit?usp=sharing",
+  },
   { title: `${ICON} Сертификат в магазин "Детский мир"` },
   { title: `${ICON} Сертификат в магазин "Zara"` },
 ];
