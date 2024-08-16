@@ -5,11 +5,11 @@ const ICON = "🎁";
 const CONFIG = [
   // { title: `${ICON} Мольберт для рисования с грифельной доской` },
   {
-    title: `${ICON} TODI Стул мягкий для детей`,
+    title: `${ICON} Стул мягкий для детей`,
     link: "https://global.wildberries.ru/product?card=84348059",
   },
   {
-    title: `${ICON} VIG Mart Кукла пупс с соской`,
+    title: `${ICON} Кукла пупс с соской`,
     link: "https://global.wildberries.ru/product?card=225194264",
   },
   {
@@ -21,11 +21,11 @@ const CONFIG = [
     link: "https://global.wildberries.ru/product?card=37766861",
   },
   {
-    title: `${ICON} SUPER DOTS Большие точечные маркеры с раскраской для рисованият`,
+    title: `${ICON} Большие точечные маркеры с раскраской`,
     link: "https://global.wildberries.ru/product?card=242642433",
   },
   {
-    title: `${ICON} Kidswood Треугольник пиклера с горкой [12 перекладин]`,
+    title: `${ICON} Треугольник пиклера с горкой`,
     link: "https://global.wildberries.ru/product?card=163275395",
   },
   {
@@ -37,20 +37,32 @@ const CONFIG = [
     link: "https://docs.google.com/document/d/1fo3IIreBG3OajJ66fTyioGy0GGQGd7PGslLNRjZ53cI/edit?usp=sharing",
   },
   {
-    title: `${ICON} Happy Baby Детский пылесос игрушечный вертикальный беспроводной ручной`,
+    title: `${ICON} Детский пылесос`,
     link: "https://global.wildberries.ru/product?card=178339649",
   },
   {
-    title: `${ICON} Игрушечная раковина с водой`,
+    title: `${ICON} Игрушечная раковина`,
     link: "https://ozon.ru/t/VnzyP97",
   },
   {
-    title: `${ICON} Happy Baby Детский игровой набор для уборки дома, со шваброй и ведром`,
+    title: `${ICON} Детский игровой набор для уборки дома`,
     link: "https://global.wildberries.ru/product?card=200140175",
   },
   {
-    title: `${ICON} Gavryusha_Toy Бизиборд Лама для малышей`,
-    link: "https://global.wildberries.ru/product?card=209261808",
+    title: `${ICON} Развивающий массажный коврик`,
+    link: "https://global.wildberries.ru/product?card=66808568",
+  },
+  {
+    title: `${ICON} Тактильная книга`,
+    link: "https://global.wildberries.ru/product?card=145214559",
+  },
+  {
+    title: `${ICON} Ароматная детская сказка книга`,
+    link: "https://global.wildberries.ru/product?card=138633717",
+  },
+  {
+    title: `${ICON} Раскраска для малышей с заданиями`,
+    link: "https://global.wildberries.ru/product?card=186906975",
   },
   { title: `${ICON} Сертификат в магазин "Детский мир"` },
   { title: `${ICON} Сертификат в магазин "Zara"` },
