@@ -5,7 +5,7 @@ const ICON = "🎁";
 const CONFIG = [
   // { title: `${ICON} Мольберт для рисования с грифельной доской` },
   {
-    title: `${ICON} Стул мягкий для детей`,
+    title: `<s>${ICON} Стул мягкий для детей</s>`,
     link: "https://www.wildberries.by/product?card=84348059",
   },
   {
@@ -13,7 +13,7 @@ const CONFIG = [
     link: "https://www.wildberries.by/product?card=225194264",
   },
   {
-    title: `${ICON} Музыкальное интерактивное обучающее пианино с барабаном`,
+    title: `<s>${ICON} Музыкальное интерактивное обучающее пианино с барабаном</s>`,
     link: "https://www.wildberries.by/product?card=225757519",
   },
   {
@@ -57,7 +57,7 @@ const CONFIG = [
     link: "https://www.wildberries.by/product?card=145214559",
   },
   {
-    title: `${ICON} Ароматная детская сказка книга`,
+    title: `<s>${ICON} Ароматная детская сказка книга</s>`,
     link: "https://www.wildberries.by/product/aromatnaya-detskaya-skazka-kniga-dlya-malyshej-den-rozhdeniya-138633717?option=235584573",
   },
   {
@@ -65,7 +65,7 @@ const CONFIG = [
     link: "https://www.wildberries.by/product?card=186906975",
   },
   {
-    title: `${ICON} Набор для лепки воздушный пластилин`,
+    title: `<s>${ICON} Набор для лепки воздушный пластилин</s>`,
     link: "https://www.wildberries.by/product/nabor-dlya-lepki-vozdushnyj-plastilin-211429123?option=338088444",
   },
   {
