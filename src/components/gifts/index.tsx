@@ -65,7 +65,7 @@ const CONFIG = [
     link: "https://global.wildberries.ru/product?card=186906975",
   },
   {
-    title: `<${ICON} Набор для лепки воздушный пластилин`,
+    title: `${ICON} Набор для лепки воздушный пластилин`,
     link: "https://global.wildberries.ru/product?card=211429123",
   },
   {
