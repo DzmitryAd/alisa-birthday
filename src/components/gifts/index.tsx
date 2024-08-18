@@ -69,7 +69,7 @@ const CONFIG = [
     link: "https://www.wildberries.by/product/nabor-dlya-lepki-vozdushnyj-plastilin-211429123?option=338088444",
   },
   {
-    title: `${ICON} Развивающая игрушка-тренажер для запуска речи`,
+    title: `<s>${ICON} Развивающая игрушка-тренажер для запуска речи</s>`,
     link: "https://www.wildberries.by/product?card=150252651",
   },
   { title: `${ICON} Сертификат в магазин "Детский мир"` },
