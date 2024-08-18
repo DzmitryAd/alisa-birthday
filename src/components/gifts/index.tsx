@@ -64,6 +64,14 @@ const CONFIG = [
     title: `<s>${ICON} Раскраска для малышей с заданиями</s>`,
     link: "https://global.wildberries.ru/product?card=186906975",
   },
+  {
+    title: `<${ICON} Набор для лепки воздушный пластилин`,
+    link: "https://global.wildberries.ru/product?card=211429123",
+  },
+  {
+    title: `${ICON} Развивающая игрушка-тренажер для запуска речи`,
+    link: "https://global.wildberries.ru/product?card=150252651",
+  },
   { title: `${ICON} Сертификат в магазин "Детский мир"` },
   { title: `${ICON} Сертификат в магазин "Zara"` },
 ];
