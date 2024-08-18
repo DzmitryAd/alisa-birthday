@@ -9,7 +9,7 @@ const CONFIG = [
     link: "https://global.wildberries.ru/product?card=84348059",
   },
   {
-    title: `${ICON} Кукла пупс с соской`,
+    title: `<s>${ICON} Кукла пупс с соской</s>`,
     link: "https://global.wildberries.ru/product?card=225194264",
   },
   {
@@ -38,10 +38,10 @@ const CONFIG = [
   },
   {
     title: `${ICON} Детский пылесос`,
-    link: "https://global.wildberries.ru/product?card=178339649",
+    link: "https://ozon.ru/t/2MMqwZg",
   },
   {
-    title: `${ICON} Игрушечная раковина`,
+    title: `<s>${ICON} Игрушечная раковина</s>`,
     link: "https://ozon.ru/t/VnzyP97",
   },
   {
@@ -49,7 +49,7 @@ const CONFIG = [
     link: "https://global.wildberries.ru/product?card=200140175",
   },
   {
-    title: `${ICON} Развивающий массажный коврик`,
+    title: `<s>${ICON} Развивающий массажный коврик</s>`,
     link: "https://global.wildberries.ru/product?card=66808568",
   },
   {
@@ -61,7 +61,7 @@ const CONFIG = [
     link: "https://global.wildberries.ru/product?card=138633717",
   },
   {
-    title: `${ICON} Раскраска для малышей с заданиями`,
+    title: `<s>${ICON} Раскраска для малышей с заданиями</s>`,
     link: "https://global.wildberries.ru/product?card=186906975",
   },
   { title: `${ICON} Сертификат в магазин "Детский мир"` },
