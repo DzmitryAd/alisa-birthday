@@ -6,27 +6,27 @@ const CONFIG = [
   // { title: `${ICON} Мольберт для рисования с грифельной доской` },
   {
     title: `${ICON} Стул мягкий для детей`,
-    link: "https://global.wildberries.ru/product?card=84348059",
+    link: "https://www.wildberries.by/product?card=84348059",
   },
   {
     title: `<s>${ICON} Кукла пупс с соской</s>`,
-    link: "https://global.wildberries.ru/product?card=225194264",
+    link: "https://www.wildberries.by/product?card=225194264",
   },
   {
     title: `${ICON} Музыкальное интерактивное обучающее пианино с барабаном`,
-    link: "https://global.wildberries.ru/product?card=225757519",
+    link: "https://www.wildberries.by/product?card=225757519",
   },
   {
     title: `${ICON} Совушка на дереве Мольберт`,
-    link: "https://global.wildberries.ru/product?card=37766861",
+    link: "https://www.wildberries.by/product?card=37766861",
   },
   {
-    title: `${ICON} Большие точечные маркеры с раскраской`,
-    link: "https://global.wildberries.ru/product?card=242642433",
+    title: `<s>${ICON} Большие точечные маркеры с раскраской</s>`,
+    link: "https://www.wildberries.by/product?card=242642433",
   },
   {
     title: `${ICON} Треугольник пиклера с горкой`,
-    link: "https://global.wildberries.ru/product?card=163275395",
+    link: "https://www.wildberries.by/product?card=163275395",
   },
   {
     title: `${ICON} Сухой бассейн`,
@@ -46,31 +46,31 @@ const CONFIG = [
   },
   {
     title: `${ICON} Детский игровой набор для уборки дома`,
-    link: "https://global.wildberries.ru/product?card=200140175",
+    link: "https://www.wildberries.by/product?card=200140175",
   },
   {
     title: `<s>${ICON} Развивающий массажный коврик</s>`,
-    link: "https://global.wildberries.ru/product?card=66808568",
+    link: "https://www.wildberries.by/product?card=66808568",
   },
   {
-    title: `${ICON} Тактильная книга`,
-    link: "https://global.wildberries.ru/product?card=145214559",
+    title: `<s>${ICON} Тактильная книга</s>`,
+    link: "https://www.wildberries.by/product?card=145214559",
   },
   {
     title: `${ICON} Ароматная детская сказка книга`,
-    link: "https://global.wildberries.ru/product?card=138633717",
+    link: "https://www.wildberries.by/product/aromatnaya-detskaya-skazka-kniga-dlya-malyshej-den-rozhdeniya-138633717?option=235584573",
   },
   {
     title: `<s>${ICON} Раскраска для малышей с заданиями</s>`,
-    link: "https://global.wildberries.ru/product?card=186906975",
+    link: "https://www.wildberries.by/product?card=186906975",
   },
   {
     title: `${ICON} Набор для лепки воздушный пластилин`,
-    link: "https://global.wildberries.ru/product?card=211429123",
+    link: "https://www.wildberries.by/product/nabor-dlya-lepki-vozdushnyj-plastilin-211429123?option=338088444",
   },
   {
     title: `${ICON} Развивающая игрушка-тренажер для запуска речи`,
-    link: "https://global.wildberries.ru/product?card=150252651",
+    link: "https://www.wildberries.by/product?card=150252651",
   },
   { title: `${ICON} Сертификат в магазин "Детский мир"` },
   { title: `${ICON} Сертификат в магазин "Zara"` },
