@@ -25,7 +25,7 @@ const CONFIG = [
     link: "https://www.wildberries.by/product?card=242642433",
   },
   {
-    title: `${ICON} Треугольник пиклера с горкой`,
+    title: `<s>${ICON} Треугольник пиклера с горкой</s>`,
     link: "https://www.wildberries.by/product?card=163275395",
   },
   {
@@ -37,7 +37,7 @@ const CONFIG = [
     link: "https://docs.google.com/document/d/1fo3IIreBG3OajJ66fTyioGy0GGQGd7PGslLNRjZ53cI/edit?usp=sharing",
   },
   {
-    title: `${ICON} Детский пылесос`,
+    title: `<s>${ICON} Детский пылесос</s>`,
     link: "https://ozon.ru/t/2MMqwZg",
   },
   {
@@ -71,6 +71,10 @@ const CONFIG = [
   {
     title: `<s>${ICON} Развивающая игрушка-тренажер для запуска речи</s>`,
     link: "https://www.wildberries.by/product?card=150252651",
+  },
+  {
+    title: `${ICON} Качалка детская`,
+    link: "https://www.wildberries.by/product/kachalka-detskaya-zhiraf-myagkij-245430482?option=384812691",
   },
   { title: `${ICON} Сертификат в магазин "Детский мир"` },
   { title: `${ICON} Сертификат в магазин "Zara"` },
