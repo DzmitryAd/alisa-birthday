@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/alisa-birthday/static/css/main.da2dffdf.css",
-    "main.js": "/alisa-birthday/static/js/main.498cea55.js",
+    "main.js": "/alisa-birthday/static/js/main.a1795e6d.js",
     "static/media/slider-10.jpg": "/alisa-birthday/static/media/slider-10.9f12cc1c8518a28230e4.jpg",
     "static/media/slider-1.jpg": "/alisa-birthday/static/media/slider-1.38a1aec867b1506b015d.jpg",
     "static/media/slider-7.jpg": "/alisa-birthday/static/media/slider-7.c342204a952a9ed41c5d.jpg",
@@ -21,10 +21,10 @@
     "static/media/mark-placemark.png": "/alisa-birthday/static/media/mark-placemark.ff469cf194c0eae551df.png",
     "index.html": "/alisa-birthday/index.html",
     "main.da2dffdf.css.map": "/alisa-birthday/static/css/main.da2dffdf.css.map",
-    "main.498cea55.js.map": "/alisa-birthday/static/js/main.498cea55.js.map"
+    "main.a1795e6d.js.map": "/alisa-birthday/static/js/main.a1795e6d.js.map"
   },
   "entrypoints": [
     "static/css/main.da2dffdf.css",
-    "static/js/main.498cea55.js"
+    "static/js/main.a1795e6d.js"
   ]
 }
