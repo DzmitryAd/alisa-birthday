@@ -73,7 +73,7 @@ const CONFIG = [
     link: "https://www.wildberries.by/product?card=150252651",
   },
   {
-    title: `${ICON} Качалка детская`,
+    title: `<s>${ICON} Качалка детская</s>`,
     link: "https://www.wildberries.by/product/kachalka-detskaya-zhiraf-myagkij-245430482?option=384812691",
   },
   { title: `${ICON} Сертификат в магазин "Детский мир"` },
